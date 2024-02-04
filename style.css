@@ -1,0 +1,87 @@
+ /* Custom CSS for the banner section */
+ .banner-section  {
+     background: linear-gradient(144.89deg, #206D73 -3.68%, #020808 99.03%);
+
+}
+
+
+.navbar {
+    background: linear-gradient(144.89deg, #206D73 -3.68%, #020808 99.03%);
+}
+
+.navbar-nav{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    list-style:none;
+    /* background: linear-gradient(144.89deg, #206D73 -3.68%, #020808 99.03%); */
+
+}
+h1 {
+    
+    font-family: Lato;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: 0em;
+    /* text-align: center; */
+}
+
+
+    .white-button {
+        background-color: white;
+        border: none;
+        color: black; /* Change the color of the button text to contrast with the white background */
+    }
+
+    .white-icon {
+        color: white;
+    }
+
+
+    h2{
+        color:
+        rgba(12, 71, 77, 1)
+    }
+    
+    .p2.li{
+        font-family: 'Poppins', sans-serif;
+       font-size: 20px;
+       font-weight: 400;
+       line-height: 30px;
+       letter-spacing: 0;
+        text-align: left;
+       
+
+    }
+
+    .small-icon {
+        width: 80px; /* Adjust to your preferred size */
+        height: 80px; /* Adjust to your preferred size */
+    }
+
+    .smallold-icon {
+        width: auto; /* Adjust to your preferred size */
+        height: 40px; /* Adjust to your preferred size */
+    }
+    
+    .smallone-icon {
+        width: 121px; /* Adjust to your preferred size */
+        height: 121px; /* Adjust to your preferred size */
+    }
+   
+  .icon-image {
+    width: 5px; /* Adjust the width as needed */
+    /* margin-right: 1px; */
+    height:50px
+}
+ 
+.p-3{
+    .p3 {
+        width: 575px;
+        height: 60px;
+        top: 20px;
+        left: 42px;
+    }
+    
+}
